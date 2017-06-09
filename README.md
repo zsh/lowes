@@ -8,4 +8,6 @@ http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.h
 To use the program, double click the jar file, obtainable here: 
 https://raw.githubusercontent.com/lowescoupons/lowes/master/Lowes.jar
 
-To generate a new code press SHIFT+R.
+One of each will generate automatically.
+
+To generate new codes press SHIFT+R.
